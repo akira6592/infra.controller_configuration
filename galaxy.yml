@@ -12,7 +12,7 @@ authors:
     - Sean Sullivan @sean-m-sullivan
     - David Danielsson @djdanielsson
 repository: https://github.com/redhat-cop/infra.controller_configuration/
-issues: https://github.com/redhat-cop/infra.controller_configuration//issues
+issues: https://github.com/redhat-cop/infra.controller_configuration/issues
 build_ignore:
     - galaxy.yml.j2
     - release.yml
